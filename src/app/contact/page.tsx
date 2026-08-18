@@ -18,8 +18,8 @@ export const metadata: Metadata = {
     title: 'Contact Us | Praise Change Divine Life Gospel Ministry',
     description:
       'Pastoral helpline, physical location in Ode Remo, Ogun State, and prayer request form.',
-    url: 'https://praisechangedivinelife.org/contact',
-    images: [{ url: '/images/logo.jpg', alt: 'Contact Us' }],
+    url: 'https://praise-website-azure.vercel.app/contact',
+    images: [{ url: '/images/og-image.jpg', alt: 'Contact Us Banner' }],
   },
 };
 

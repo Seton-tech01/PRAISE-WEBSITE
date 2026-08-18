@@ -19,8 +19,8 @@ export const metadata: Metadata = {
     title: 'About Us | Praise Change Divine Life Gospel Ministry',
     description:
       'Discover our divine vision, core pillars of salvation, and the welcome message from General Overseer Pst. & Pst (Mrs) Gabriel Emmanuel in Ode Remo, Ogun State.',
-    url: 'https://praisechangedivinelife.org/about',
-    images: [{ url: '/images/logo.jpg', alt: 'Praise Change Logo' }],
+    url: 'https://praise-website-azure.vercel.app/about',
+    images: [{ url: '/images/og-image.jpg', alt: 'About Praise Change Ministry' }],
   },
 };
 

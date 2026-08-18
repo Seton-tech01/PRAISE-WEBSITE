@@ -16,9 +16,9 @@ export const metadata: Metadata = {
   openGraph: {
     title: 'Testimonies & Miracles | Praise Change Divine Life Gospel Ministry',
     description:
-      'Discover how God is breaking yokes and transforming lives in Ode Remo and Eposo Branch.',
-    url: 'https://praisechangedivinelife.org/testimonies',
-    images: [{ url: '/images/logo.jpg', alt: 'Testimonies Emblem' }],
+      'Discover how God is breaking yokes and transforming lives in Ode Remo, Ayegbami, and Eposo Branch.',
+    url: 'https://praise-website-azure.vercel.app/testimonies',
+    images: [{ url: '/images/og-image.jpg', alt: 'Testimonies Banner' }],
   },
 };
 

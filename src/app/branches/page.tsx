@@ -6,20 +6,20 @@ import BranchesSection from '@/components/BranchesSection';
 export const metadata: Metadata = {
   title: 'Branches & Location Map | Praise Change Divine Life Gospel Ministry',
   description:
-    'Find our International Headquarters in Ode Remo, Remo North Local Government, Ogun State, Nigeria, and our resident Eposo Branch headed by Lady Evang. Oyedele. Get instant Google Maps directions.',
+    'Find our International Headquarters in Ode Remo, Remo North Local Government, Ogun State, Nigeria, and our resident branches in Ayegbami and Eposo. Get instant Google Maps directions.',
   keywords: [
     'Praise Change Ode Remo Location',
     'Ode Remo Remo North Local Government Ogun State',
+    'Ayegbami Branch Ode Remo',
     'Eposo Branch Ode Remo',
     'Praise Change Divine Life Google Maps Link',
-    'Church Location Ogun State Nigeria',
   ],
   openGraph: {
     title: 'Church Branches & Location | Praise Change Divine Life',
     description:
-      'Visit our Headquarters in Ode Remo or Eposo Branch, Ogun State. Interactive Google Maps directions included.',
-    url: 'https://praisechangedivinelife.org/branches',
-    images: [{ url: '/images/logo.jpg', alt: 'Church Location Map' }],
+      'Visit our Headquarters in Ode Remo or Ayegbami & Eposo Branches, Ogun State. Interactive Google Maps directions included.',
+    url: 'https://praise-website-azure.vercel.app/branches',
+    images: [{ url: '/images/og-image.jpg', alt: 'Church Location Map' }],
   },
 };
 

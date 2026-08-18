@@ -9,7 +9,7 @@ export const viewport: Viewport = {
 };
 
 export const metadata: Metadata = {
-  metadataBase: new URL('https://praisechangedivinelife.org'),
+  metadataBase: new URL('https://praise-website-azure.vercel.app'),
   title: 'Praise Change Divine Life Gospel Ministry | Ode Remo, Ogun State',
   description:
     'Official website of Praise Change Divine Life Gospel Ministry, Ode Remo, Remo North Local Government, Ogun State, Nigeria. General Overseer: Pst. & Pst (Mrs) Gabriel Emmanuel. Assistant General Overseer: Pst. Balogun Adebayo. Ayegbami Branch: Pst (Mrs) Gabriel Emmanuel. Eposo Branch: Lady Evang. Oyedele.',
@@ -36,18 +36,25 @@ export const metadata: Metadata = {
     title: 'Praise Change Divine Life Gospel Ministry | Ode Remo, Ogun State',
     description:
       'Experience Divine Transformation, Yoke-Breaking Prayers, and Salvation. Join Pst. & Pst (Mrs) Gabriel Emmanuel and the church family in Ode Remo, Ayegbami, and Eposo.',
-    url: 'https://praisechangedivinelife.org',
+    url: 'https://praise-website-azure.vercel.app',
     siteName: 'Praise Change Divine Life Gospel Ministry',
     images: [
       {
-        url: '/images/logo.jpg',
-        width: 800,
-        height: 800,
-        alt: 'Praise Change Divine Life Gospel Ministry Logo',
+        url: '/images/og-image.jpg',
+        width: 1200,
+        height: 630,
+        alt: 'Praise Change Divine Life Gospel Ministry Banner',
       },
     ],
     locale: 'en_NG',
     type: 'website',
+  },
+  twitter: {
+    card: 'summary_large_image',
+    title: 'Praise Change Divine Life Gospel Ministry | Ode Remo, Ogun State',
+    description:
+      'Experience Divine Transformation, Yoke-Breaking Prayers, and Salvation. Join Pst. & Pst (Mrs) Gabriel Emmanuel and the church family in Ode Remo, Ayegbami, and Eposo.',
+    images: ['/images/og-image.jpg'],
   },
 };
 
